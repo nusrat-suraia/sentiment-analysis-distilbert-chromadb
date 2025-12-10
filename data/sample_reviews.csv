@@ -1,0 +1,21 @@
+review_text,sentiment_label
+"I love this product! It's amazing",positive
+"Terrible service, very disappointed",negative
+"Average product, does the job",neutral
+"Excellent quality and fast delivery",positive
+"Worst purchase of my life",negative
+"Good value for money",positive
+"Not what I expected, poor quality",negative
+"Highly recommended to friends",positive
+"Mediocre performance, could be better",neutral
+"Outstanding customer support",positive
+"Would buy again, great experience",positive
+"Product stopped working after a week",negative
+"Satisfied with the purchase",positive
+"Customer service was unhelpful",negative
+"Better than expected",positive
+"Waste of money",negative
+"Perfect for my needs",positive
+"Defective item received",negative
+"Fast shipping and good packaging",positive
+"Will never buy from this company again",negative
