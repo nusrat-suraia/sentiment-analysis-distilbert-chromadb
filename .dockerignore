@@ -1,0 +1,8 @@
+.git/
+__pycache__/
+*.py[cod]
+venv/
+.DS_Store
+*.log
+logs/
+chroma/
